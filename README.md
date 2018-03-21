@@ -1,5 +1,5 @@
-# Saturn Blockchain Explorer
-Block explorer for Saturn CryptoNote based cryptocurrency.
+# Tantal Blockchain Explorer
+Block explorer for Tantal CryptoNote based cryptocurrency.
 
 #### Installation
 
