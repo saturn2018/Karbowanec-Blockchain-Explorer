@@ -6,7 +6,7 @@ var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
     "tan": [
-		["pool.karbowanec.com", "http://pool.karbowanec.com:8117"],
+		["104.211.244.63", "http://104.211.244.63:8117"],
 	
 		
 		
